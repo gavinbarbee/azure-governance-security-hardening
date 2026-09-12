@@ -1,8 +1,9 @@
 # Implementing Governance and Security Hardening in Azure
 
-## 🎬 Watch Me Build This Lab!
+## 🎬 Watch Me Build This Lab
 
-loom coming soon
+https://www.loom.com/share/29121b364c6f46fa8406984439b158f8
+(Video ends at 4:01)
 
 ---
 
